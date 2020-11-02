@@ -1,5 +1,5 @@
 # SpinPuzzle_AnimeVersion
-![alt text](logo.png)
-![alt text](Screen1.png)
-![alt text](Screen2.png)
-![alt text](Screen3.png)
+![alt text](Screenshots/logo.png)
+![alt text](Screenshots/Screen1.png)
+![alt text](Screenshots/Screen2.png)
+![alt text](Screenshots/Screen3.png)
